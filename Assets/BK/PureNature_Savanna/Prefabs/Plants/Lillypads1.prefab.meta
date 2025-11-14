@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3f9566f99616487a8fa53dd09da3d6d7
+labels:
+- Plant
+- Vegetation
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Plants/Lillypads1.prefab
+  uploadId: 745180

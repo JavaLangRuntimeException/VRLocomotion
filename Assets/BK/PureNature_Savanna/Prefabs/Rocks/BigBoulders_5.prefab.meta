@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2be70af383124ffa932f4dbfb67ea5e5
+labels:
+- Rock
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Rocks/BigBoulders_5.prefab
+  uploadId: 745180

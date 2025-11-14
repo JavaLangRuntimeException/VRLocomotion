@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 75c95e3d44a44a829a1e1694f935a575
+labels:
+- Tree
+- Vegetation
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Trees/Acacia8.prefab
+  uploadId: 745180

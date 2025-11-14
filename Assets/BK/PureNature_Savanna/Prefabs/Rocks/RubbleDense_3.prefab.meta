@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea7802be4499417a803a78f6ab8dfc74
+labels:
+- Rock
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Rocks/RubbleDense_3.prefab
+  uploadId: 745180

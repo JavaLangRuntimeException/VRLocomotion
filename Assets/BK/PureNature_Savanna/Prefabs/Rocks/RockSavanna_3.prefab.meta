@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f4258a8cd704261b1e6ac1cb230562e
+labels:
+- Rock
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Rocks/RockSavanna_3.prefab
+  uploadId: 745180

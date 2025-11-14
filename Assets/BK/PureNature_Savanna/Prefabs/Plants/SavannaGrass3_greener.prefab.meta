@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7500dbca89cf4b09859cbfeb11d86937
+labels:
+- Plant
+- Vegetation
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Plants/SavannaGrass3_greener.prefab
+  uploadId: 745180

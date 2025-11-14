@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 943c551f5ec44d6c9acd0cc937afcdc7
+labels:
+- Tree
+- Vegetation
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Trees/Baobab6.prefab
+  uploadId: 745180

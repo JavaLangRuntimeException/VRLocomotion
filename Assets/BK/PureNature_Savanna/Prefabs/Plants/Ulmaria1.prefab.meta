@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10eb2d71b3204e998fa132116102711d
+labels:
+- Plant
+- Vegetation
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Plants/Ulmaria1.prefab
+  uploadId: 745180

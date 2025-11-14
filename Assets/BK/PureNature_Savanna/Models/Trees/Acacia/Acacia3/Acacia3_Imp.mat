@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Acacia3_Imp
+  m_Shader: {fileID: 4800000, guid: 036403ed07a8e3f46a1d1815461e168d, type: 3}
+  m_Parent: {fileID: 2100000, guid: 53375c7b5bdc48dca9e00720d2053524, type: 2}
+  m_ModifiedSerializedProperties: 4
+  m_ValidKeywords:
+  - _HIDESIDES_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _ColorVariationPower: 1
+    - _GradientPosition: 0
+    - _NoiseScale: -0.04
+    - _VertexOcclusionPower: 0.729
+    m_Colors:
+    - _ColorVariation: {r: 0.6132076, g: 0.5137668, b: 0.22947067, a: 0}
+    - _GradientColor: {r: 0.55772686, g: 0.62352943, b: 0.25098038, a: 1}
+    - _MainColor: {r: 0.51743144, g: 0.5849056, b: 0.20784375, a: 1}
+  m_BuildTextureStacks: []

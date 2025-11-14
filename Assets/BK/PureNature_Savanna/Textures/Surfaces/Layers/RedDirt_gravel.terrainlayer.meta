@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be033c2879064b8880ae459781cf4538
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Textures/Surfaces/Layers/RedDirt_gravel.terrainlayer
+  uploadId: 745180

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bea62e3366bd4fdea0c305d65aa5c0a5
+labels:
+- Plant
+- Vegetation
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Plants/Andropogon.prefab
+  uploadId: 745180

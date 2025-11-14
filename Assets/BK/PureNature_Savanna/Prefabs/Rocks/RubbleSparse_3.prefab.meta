@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29e7734ee82a42bfb4994f2a4d6da8a8
+labels:
+- Rock
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Rocks/RubbleSparse_3.prefab
+  uploadId: 745180
