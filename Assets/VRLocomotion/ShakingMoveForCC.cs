@@ -6,7 +6,7 @@ public class ShakingMoveForCC : MonoBehaviour
 {
     [Header("移動速度")]
     [Tooltip("コントローラーを振った際の移動速度の倍率")]
-    [SerializeField] private float moveSpeed = 0.8f;
+    [SerializeField] private float moveSpeed = 2.0f;
 
     [Header("OVRカメラ（必須）")]
     [Tooltip("HMDの視点（OVRCameraRig内のCenterEyeAnchor）")]
