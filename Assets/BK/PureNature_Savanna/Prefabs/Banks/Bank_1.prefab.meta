@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f1f27b5df8254aeba204a66b1c7e6a2c
+labels:
+- Cliff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307881
+  packageName: 'Pure Nature 2 : Savanna'
+  packageVersion: 1.1
+  assetPath: Assets/BK/PureNature_Savanna/Prefabs/Banks/Bank_1.prefab
+  uploadId: 745180
