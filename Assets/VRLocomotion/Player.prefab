@@ -1206,8 +1206,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a386e7341cc947e0b0a5993b0e93f90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 0.8
-  mouseCamera: {fileID: 1015531039244858541}
+  pacingMoveSpeed: 1.5
+  boundMoveSpeed: 4
+  playerCamera: {fileID: 1015531039244858541}
   speedThreshold: 0.1
   gravity: -9.81
 --- !u!114 &5185724563373189331
@@ -1226,7 +1227,6 @@ MonoBehaviour:
   rightHandTarget: {fileID: 5331136679292473983}
   pointView: {fileID: 8032716427225643716}
   cameraRig: {fileID: 4726061835912104729}
-  minSpeed: 0
 --- !u!1001 &5364671772322112114
 PrefabInstance:
   m_ObjectHideFlags: 0
