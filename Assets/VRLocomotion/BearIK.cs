@@ -31,10 +31,6 @@ public class BearIK : MonoBehaviour
 
     void Update()
     {
-        // パンダの位置をカメラに合わせる
-        Vector3 cameraPosition = cameraRig.position;
-        cameraPosition.y -= heightDiffPandaCamera; // パンダの高さを調整
-        transform.position = cameraPosition;
 
         // Playerの向きをカメラの向きに合わせる
         Quaternion targetRotation = Quaternion.Euler(0, cameraRig.transform.eulerAngles.y, 0);
